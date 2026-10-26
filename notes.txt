@@ -1,1 +1,14 @@
-# CIS 483 HW1 Notes
+# CIS 483: Homework 1 Developer Notes
+Student: Pratik Niroula
+Course: CIS 483/583 - Web Applications & User Interface Design
+Institution: Minnesota State University, Mankato
+
+## Topic 1: How the Web Works
+- Client-Server Architecture: The client (browser) initiates requests over HTTP/HTTPS, and the server processes the request and returns a response containing status codes, headers, and payload data (HTML, JSON, CSS, images).
+- URL Structure: Breakdown of scheme, hostname, port, pathname, query parameters, and fragments.
+- Usability Heuristics: Nielsen Norman Group heuristics focusing on system visibility, user freedom, consistency, and error handling.
+
+## Topic 2: Developer Toolkit
+- Command Line: Basic navigation (mkdir, cd, ls, touch) to organize projects efficiently.
+- Version Control with Git: Tracking atomic changes, staging, committing with descriptive messages, and branching.
+- DevTools: Using the Network tab to monitor HTTP headers, payloads, caching behaviors (304), and latency.
